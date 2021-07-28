@@ -1,0 +1,11 @@
+name: RayShader
+channels:
+  - conda-forge  
+dependencies:
+  - r 
+  - r-irkernel 
+  - r-essentials 
+  - geos 
+  - r-rgeos 
+  - r-rgdal 
+  - r-sf
